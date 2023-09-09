@@ -637,3 +637,8 @@ footer a{
         font-size: .6rem;
     }
 }
+@media(max-width:420px){
+    header,header.sticky{
+        padding: 10px 12%;
+    }
+}
